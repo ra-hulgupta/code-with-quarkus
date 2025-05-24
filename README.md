@@ -1,3 +1,9 @@
+# Hi Team
+
+Below are the steps officially written by io.quarkus platform, running this framework is super easy, as currently my code is facing some depency versioning error related.
+Which I obviously researched but couldnt figure out where am I lacking. Hopefully someone could give me a hint.
+Thanks.
+
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
